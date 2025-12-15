@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nasir
 
-<!--
-**alhanaya/alhanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software systems with a focus on:
+- Backend development
+- Data processing
+- Text analysis
+- Clean project architecture
 
-Here are some ideas to get you started:
+## Current focus
+- Building structured data pipelines
+- Exploring text processing systems
+- Developing backend-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical stack
+- JavaScript / TypeScript
+- Python
+- SQL Databases
+- APIs & System Design
+
+## Engineering approach
+- Problem-oriented thinking
+- Clear documentation
+- Incremental development
+- Version-controlled workflows
